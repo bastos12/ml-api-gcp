@@ -15,7 +15,7 @@
 
 #### 1 :star: Suivre le tutoriel pas à pas pour construire l'application
 #### 2 :star: Cloner le repo 
-Pour **l'option 2**, cloner le repo puis effectuer les etapes commandes suivantes dans les dossier respectifs:
+Pour **l'option 2**, cloner le repo puis effectuer les commandes suivantes dans les dossiers respectifs:
 ###### Front
 ```
 npm install
