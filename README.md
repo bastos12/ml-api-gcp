@@ -1,8 +1,10 @@
 
 <h1 align="center">Projet API Machine Learning</h1>
 
-<div align= "center"><img src="./.github/Masque.jpg"/>
+<div align= "center">
+  <img src="./.github/Masque.jpg"/>
   <p>Les objectifs de ce projet sont multiples. Créer un modele de Machine Learning de detection des masques puis créer une API pour fournir une application déployée sur le web</p>
+  <img src="./.github/masque.jpg" width="400" height="300"/>
 </div>
 
 &nbsp;
