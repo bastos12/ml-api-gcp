@@ -15,7 +15,7 @@ from back.model import (
 from back.utils import image_to_array
 
 # application
-app = Flask(__name__, static_folder='./my-app/build', static_url_path='/')
+app = Flask(__name__, static_folder='./myapp/build', static_url_path='/')
 CORS(app)
 
 # API detection du masque
