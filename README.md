@@ -4,7 +4,7 @@
 <div align= "center">
   <img src="./.github/Masque.jpg"/>
   <p>Les objectifs de ce projet sont multiples. Créer un modele de Machine Learning de detection des masques puis créer une API pour fournir une application déployée sur le web</p>
-  <img src="./.github/masque.jpg" width="400" height="300"/>
+  <img src="./.github/masque.jpg" width="500" height="300"/>
 </div>
 
 &nbsp;
