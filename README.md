@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/python-v3.8.10-blue.svg) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/bastien-angeloz-204360a4/)
 
 &nbsp;
+**IMPORTANT** : La version en deployement actuelle a été passée en container demo de GCP. Si vous souhaitez acceder à l'application, n'hesitez pas à me contacter via la partie **CONTACT** pour que j'active le container.
 [Check Live Demo](https://detector-c4vf3ncwrq-oa.a.run.app/)
 
 ## :point_down: Let's Go ! 2 possibilités :
